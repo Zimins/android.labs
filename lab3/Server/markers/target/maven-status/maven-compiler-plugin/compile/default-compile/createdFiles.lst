@@ -1,0 +1,6 @@
+org\jooq\util\maven\example\Public.class
+org\jooq\util\maven\example\tables\Marker.class
+org\jooq\util\maven\example\tables\Photo.class
+org\jooq\util\maven\example\tables\pojos\Photo.class
+org\jooq\util\maven\example\tables\records\MarkerRecord.class
+org\jooq\util\maven\example\tables\records\PhotoRecord.class
